@@ -68,9 +68,12 @@ The architecture consists of the following components:
 
 Adjust the `my_config.py` file to set up your AWS credentials and other configuration parameters.
 
-## License
+## Different Videos of the Series
 
-[Include your license information here]
+PART 1: https://youtu.be/zv1RPZBAv9k
+
+PART 2: https://youtu.be/Ja6kud9t5dE
+
 
 ## Contact
 
